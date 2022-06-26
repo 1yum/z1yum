@@ -1,12 +1,12 @@
 @font-face {
     font-family: "FZYouMaoZaiJ";
-    src: url("FZYouMaoZaiJ.eot"); /* IE9 */
-    src: url("FZYouMaoZaiJ.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    src: url("https://cdn.jsdelivr.net/gh/1yum/z1yum@master/1yum_logo/FZYouMaoZaiJ.eot"); /* IE9 */
+    src: url("https://cdn.jsdelivr.net/gh/1yum/z1yum@master/1yum_logo/FZYouMaoZaiJ.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     
-    url("FZYouMaoZaiJ.woff") format("woff"), /* chrome、firefox */
-    url("FZYouMaoZaiJ.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("https://cdn.jsdelivr.net/gh/1yum/z1yum@master/1yum_logo/FZYouMaoZaiJ.woff") format("woff"), /* chrome、firefox */
+    url("https://cdn.jsdelivr.net/gh/1yum/z1yum@master/1yum_logo/FZYouMaoZaiJ.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
     
-    url("FZYouMaoZaiJ.svg#FZYouMaoZaiJ") format("svg"); /* iOS 4.1- */
+    url("https://cdn.jsdelivr.net/gh/1yum/z1yum@master/1yum_logo/FZYouMaoZaiJ.svg#FZYouMaoZaiJ") format("svg"); /* iOS 4.1- */
     font-style: normal;
     font-weight: normal;
 }
